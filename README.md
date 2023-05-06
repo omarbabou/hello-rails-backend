@@ -25,6 +25,9 @@
 
 **Hello-rails-backend** A small rails react project setup.
 
+LINK TO THE FRONTEND [hello-react-front-end](https://github.com/omarbabou/hello-react-front-end/pull/1)
+
+
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
